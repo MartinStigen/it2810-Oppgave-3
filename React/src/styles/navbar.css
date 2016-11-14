@@ -1,0 +1,29 @@
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-toggle {
+	border-radius: 0;
+}
+
+.navbar-btn {
+	margin-right: 10px;
+	border-radius: 0;
+	background-color: rgba(0,0,0,0);
+	color: white;
+}
+
+.navbar-btn:hover {
+	color: gray;
+}
+
+@media (max-width: 768px) {
+    .nav {
+        float: left !important;
+    }
+
+    .navbar-text {
+    	display: none;
+    }
+}

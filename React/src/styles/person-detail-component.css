@@ -1,0 +1,30 @@
+.person-detail .chart-box {
+	height: 50px;
+	float: right;
+}
+
+.person-detail {
+	min-height: 150px;
+}
+
+.chart-box p {
+	display: inline;
+	color: white;
+	width: 20px;
+}
+
+#cast {
+	background-color: red;
+}
+
+#director {
+	background-color: green;
+}
+
+#writer {
+	background-color: blue;
+}
+
+.box {
+	float: left;
+}

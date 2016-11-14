@@ -1,0 +1,10 @@
+.center-cropped {
+    object-fit: cover; /* Do not scale the image */
+    object-position: center; /* Center the image within the element */
+    height: 100%;
+    width: 28%;
+}
+
+.user-info-card {
+    height: 200px;
+}

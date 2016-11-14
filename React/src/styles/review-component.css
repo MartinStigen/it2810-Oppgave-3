@@ -1,0 +1,14 @@
+.review-component {
+    border-radius: 2px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+    margin-top: 20px;
+    padding: 10px;
+}
+
+.review-text {
+	width: 100%;
+	border: 1px solid rgba(0,0,0,0.2);
+	resize: none;
+	margin: 10px 0 10px 0;
+}

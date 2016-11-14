@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
+
+.detail-box {
+	width: 100%;
+	border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  padding: 10px;
+  margin-top: 10px;
+  width: 100%;
+}
+
+.container-768 {
+  max-width: 768px;
+  margin: 0 auto;
+  padding: 0 10px 0 10px;
+}
